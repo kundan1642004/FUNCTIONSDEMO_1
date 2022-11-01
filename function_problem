@@ -1,0 +1,8 @@
+function sum (a,b,c)
+{
+let res= a+b+c
+console.log(res)
+}
+
+sum(5,8,9);
+
